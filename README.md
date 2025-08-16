@@ -9,4 +9,7 @@ Read more at [omarchy.org](https://omarchy.org).
 Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Install
-``` git clone https://github.com/Hoodrich-Pablo-Juan/dots2.git && cd dots2 && bash install.sh ```
+``` 
+git clone https://github.com/Hoodrich-Pablo-Juan/dots2.git && cd dots2 && bash install.sh
+
+```
